@@ -3,7 +3,7 @@
 **Last Updated:** June 2024
 
 ## 1. Scope and Subject Matter
-These General Terms and Conditions (hereinafter "GTC") govern the use of the mobile application "Swiss Fuel Finder" (hereinafter "App"), developed and operated by Waleed Trh, Switzerland (hereinafter "Operator"). 
+These General Terms and Conditions (hereinafter "GTC") govern the use of the mobile application "Swiss Fuel Finder" (hereinafter "App"), developed and operated by WTRH, Switzerland (hereinafter "Operator"). 
 
 The App provides users with information on fuel prices, locations of fuel stations in Switzerland, and estimates potential savings based on user-defined vehicle profiles.
 
