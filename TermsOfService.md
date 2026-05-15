@@ -20,7 +20,7 @@ All "Max Savings" or "Net CHF" calculations are estimates based on user-provided
 
 ## 4. User Accounts and Conduct
 ### 4.1 Registration
-Users may access basic features anonymously but must sign in via Google to use advanced features (e.g., price updates, favorites).
+Users cannot access basic features anonymously and must sign in via Google to use basic and advanced features (e.g., price updates, favorites).
 ### 4.2 Pseudos
 Users must choose a "Pseudo" (username) that does not violate third-party rights or public decency. Names such as "Admin," "Administrator," "Support," or official brand names are strictly prohibited and will be removed.
 ### 4.3 Data Accuracy
