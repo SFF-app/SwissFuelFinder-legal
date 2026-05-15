@@ -5,7 +5,7 @@
 Your privacy is paramount. This policy explains how Swiss Fuel Finder (SFF) handles your data in compliance with the **Swiss Federal Act on Data Protection (FADP)** and the **General Data Protection Regulation (GDPR)**.
 
 ## 1. Data Controller
-**Company/Owner Name:** WTRH
+**Company/Owner Name:** WTRH   
 **Email:** info@swissfuelfinder.com
 
 ## 2. Information We Collect
